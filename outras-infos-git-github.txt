@@ -1,0 +1,4 @@
+OUTRAS INFORMAÇÕES GIT/GITHUB
+
+# Configurando duas contas de git no mesmo computador:
+https://willianjusten.com.br/configurando-2-contas-de-git-no-mesmo-computador
